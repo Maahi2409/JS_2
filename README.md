@@ -1,2 +1,2 @@
-# JS_2
+# JS-2
 A code repo for Javascript series
